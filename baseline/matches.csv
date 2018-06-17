@@ -1,0 +1,837 @@
+id,round_id,score1,score2,team1,team2,key
+803,112,3,1,Brazil,Croatia,world.2014
+804,113,1,0,Mexico,Cameroon,world.2014
+809,113,1,5,Spain,Netherlands,world.2014
+810,113,3,1,Chile,Australia,world.2014
+815,114,3,0,Colombia,Greece,world.2014
+816,114,2,1,Côte d'Ivoire,Japan,world.2014
+821,114,1,3,Uruguay,Costa Rica,world.2014
+822,114,1,2,England,Italy,world.2014
+827,115,2,1,Switzerland,Ecuador,world.2014
+828,115,3,0,France,Honduras,world.2014
+833,115,2,1,Argentina,Bosnia-Herzegovina,world.2014
+834,116,0,0,Iran,Nigeria,world.2014
+839,116,4,0,Germany,Portugal,world.2014
+840,116,1,2,Ghana,United States,world.2014
+805,117,0,0,Brazil,Mexico,world.2014
+845,117,2,1,Belgium,Algeria,world.2014
+846,117,1,1,Russia,South Korea,world.2014
+806,118,0,4,Cameroon,Croatia,world.2014
+811,118,0,2,Spain,Chile,world.2014
+812,118,2,3,Australia,Netherlands,world.2014
+817,119,2,1,Colombia,Côte d'Ivoire,world.2014
+818,119,0,0,Japan,Greece,world.2014
+823,119,2,1,Uruguay,England,world.2014
+824,120,0,1,Italy,Costa Rica,world.2014
+829,120,2,5,Switzerland,France,world.2014
+830,120,1,2,Honduras,Ecuador,world.2014
+835,121,1,0,Argentina,Iran,world.2014
+836,121,1,0,Nigeria,Bosnia-Herzegovina,world.2014
+841,121,2,2,Germany,Ghana,world.2014
+842,122,2,2,United States,Portugal,world.2014
+847,122,1,0,Belgium,Russia,world.2014
+848,122,2,4,South Korea,Algeria,world.2014
+807,123,1,4,Cameroon,Brazil,world.2014
+808,123,1,3,Croatia,Mexico,world.2014
+813,123,0,3,Australia,Spain,world.2014
+814,123,2,0,Netherlands,Chile,world.2014
+819,124,1,4,Japan,Colombia,world.2014
+820,124,2,1,Greece,Côte d'Ivoire,world.2014
+825,124,0,1,Italy,Uruguay,world.2014
+826,124,0,0,Costa Rica,England,world.2014
+831,125,0,3,Honduras,Switzerland,world.2014
+832,125,0,0,Ecuador,France,world.2014
+837,125,2,3,Nigeria,Argentina,world.2014
+838,125,3,1,Bosnia-Herzegovina,Iran,world.2014
+843,126,0,1,United States,Germany,world.2014
+844,126,2,1,Portugal,Ghana,world.2014
+849,126,0,1,South Korea,Belgium,world.2014
+850,126,1,1,Algeria,Russia,world.2014
+851,127,3,2,Brazil,Chile,world.2014
+852,127,2,0,Colombia,Uruguay,world.2014
+853,127,2,1,Netherlands,Mexico,world.2014
+854,127,5,3,Costa Rica,Greece,world.2014
+855,127,2,0,France,Nigeria,world.2014
+856,127,0,0,Germany,Algeria,world.2014
+857,127,0,0,Argentina,Switzerland,world.2014
+858,127,0,0,Belgium,United States,world.2014
+859,128,2,1,Brazil,Colombia,world.2014
+860,128,0,1,France,Germany,world.2014
+861,128,4,3,Netherlands,Costa Rica,world.2014
+862,128,1,0,Argentina,Belgium,world.2014
+863,129,1,7,Brazil,Germany,world.2014
+864,129,2,4,Netherlands,Argentina,world.2014
+865,130,0,3,Brazil,Netherlands,world.2014
+866,131,0,0,Germany,Argentina,world.2014
+867,132,4,1,France,Mexico,world.1930
+879,132,3,0,United States,Belgium,world.1930
+873,133,2,1,Yugoslavia (-2003),Brazil,world.1930
+876,133,3,1,Romania,Peru,world.1930
+868,134,1,0,Argentina,France,world.1930
+869,135,3,0,Chile,Mexico,world.1930
+874,136,4,0,Yugoslavia (-2003),Bolivia,world.1930
+880,136,3,0,United States,Paraguay,world.1930
+877,137,1,0,Uruguay,Peru,world.1930
+870,138,1,0,Chile,France,world.1930
+871,138,6,3,Argentina,Mexico,world.1930
+875,139,4,0,Brazil,Bolivia,world.1930
+881,139,1,0,Paraguay,Belgium,world.1930
+878,140,4,0,Uruguay,Romania,world.1930
+872,141,3,1,Argentina,Chile,world.1930
+882,142,6,1,Argentina,United States,world.1930
+883,142,6,1,Uruguay,Yugoslavia (-2003),world.1930
+884,143,4,2,Uruguay,Argentina,world.1930
+885,144,1,1,Sweden,Argentina,world.1934
+886,144,1,1,Austria,France,world.1934
+887,144,1,2,Germany,Belgium,world.1934
+888,144,3,0,Spain,Brazil,world.1934
+889,144,2,2,Hungary,Egypt,world.1934
+890,144,2,1,Switzerland,Netherlands,world.1934
+891,144,3,0,Italy,United States,world.1934
+892,144,0,1,Czechoslovakia (-1992),Romania,world.1934
+893,145,1,1,Czechoslovakia (-1992),Switzerland,world.1934
+894,145,0,0,Germany,Sweden,world.1934
+895,145,1,1,Italy,Spain,world.1934
+896,145,1,0,Austria,Hungary,world.1934
+897,146,1,0,Italy,Spain,world.1934
+898,147,1,0,Italy,Austria,world.1934
+899,147,1,0,Czechoslovakia (-1992),Germany,world.1934
+900,148,3,1,Germany,Austria,world.1934
+901,149,1,1,Italy,Czechoslovakia (-1992),world.1934
+902,150,1,1,Switzerland,Germany,world.1938
+903,150,6,0,Hungary,Dutch East Indies (-1945),world.1938
+904,150,3,1,France,Belgium,world.1938
+905,150,2,2,Cuba,Romania,world.1938
+906,150,1,1,Italy,Norway,world.1938
+907,150,4,4,Brazil,Poland,world.1938
+908,150,0,0,Czechoslovakia (-1992),Netherlands,world.1938
+909,151,2,1,Cuba,Romania,world.1938
+910,151,2,4,Germany,Switzerland,world.1938
+911,152,1,1,Brazil,Czechoslovakia (-1992),world.1938
+912,152,0,2,Switzerland,Hungary,world.1938
+913,152,8,0,Sweden,Cuba,world.1938
+914,152,1,3,France,Italy,world.1938
+915,153,2,1,Brazil,Czechoslovakia (-1992),world.1938
+916,154,5,1,Hungary,Sweden,world.1938
+917,154,2,1,Italy,Brazil,world.1938
+918,155,2,4,Sweden,Brazil,world.1938
+919,156,2,4,Hungary,Italy,world.1938
+920,157,4,0,Brazil,Mexico,world.1950
+921,158,3,0,Yugoslavia (-2003),Switzerland,world.1950
+926,158,2,0,England,Chile,world.1950
+927,158,3,1,Spain,United States,world.1950
+932,158,3,2,Sweden,Italy,world.1950
+922,159,2,2,Brazil,Switzerland,world.1950
+923,159,4,1,Yugoslavia (-2003),Mexico,world.1950
+924,160,2,0,Brazil,Yugoslavia (-2003),world.1950
+925,161,2,1,Switzerland,Mexico,world.1950
+930,161,1,0,Spain,England,world.1950
+931,161,5,2,Chile,United States,world.1950
+934,161,2,0,Italy,Paraguay,world.1950
+935,161,8,0,Uruguay,Bolivia,world.1950
+928,162,2,0,Spain,Chile,world.1950
+929,162,1,0,United States,England,world.1950
+933,162,2,2,Sweden,Paraguay,world.1950
+936,163,2,2,Uruguay,Spain,world.1950
+937,163,7,1,Brazil,Sweden,world.1950
+938,163,6,1,Brazil,Spain,world.1950
+939,163,3,2,Uruguay,Sweden,world.1950
+940,163,3,1,Sweden,Spain,world.1950
+941,163,2,1,Uruguay,Brazil,world.1950
+942,164,5,0,Brazil,Mexico,world.1954
+943,164,1,0,Yugoslavia (-2003),France,world.1954
+951,164,2,0,Uruguay,Czechoslovakia (-1992),world.1954
+952,164,1,0,Austria,Scotland,world.1954
+944,165,1,1,Brazil,Yugoslavia (-2003),world.1954
+945,165,3,2,France,Mexico,world.1954
+953,165,5,0,Austria,Czechoslovakia (-1992),world.1954
+954,165,7,0,Uruguay,Scotland,world.1954
+946,166,4,1,West Germany (-1989),Turkey,world.1954
+947,166,9,0,Hungary,South Korea,world.1954
+955,166,3,3,England,Belgium,world.1954
+956,166,2,1,Switzerland,Italy,world.1954
+948,167,8,3,Hungary,West Germany (-1989),world.1954
+949,167,7,0,Turkey,South Korea,world.1954
+957,167,2,0,England,Switzerland,world.1954
+958,167,4,1,Italy,Belgium,world.1954
+950,168,7,2,West Germany (-1989),Turkey,world.1954
+959,169,4,1,Switzerland,Italy,world.1954
+960,170,7,5,Austria,Switzerland,world.1954
+961,170,4,2,Uruguay,England,world.1954
+962,170,0,2,Yugoslavia (-2003),West Germany (-1989),world.1954
+963,170,2,4,Brazil,Hungary,world.1954
+964,171,6,1,West Germany (-1989),Austria,world.1954
+965,171,2,2,Hungary,Uruguay,world.1954
+966,172,1,3,Uruguay,Austria,world.1954
+967,173,2,3,Hungary,West Germany (-1989),world.1954
+968,174,3,1,West Germany (-1989),Argentina,world.1958
+969,174,1,0,Northern Ireland,Czechoslovakia (-1992),world.1958
+975,174,7,3,France,Paraguay,world.1958
+976,174,1,1,Yugoslavia (-2003),Scotland,world.1958
+981,174,3,0,Sweden,Mexico,world.1958
+982,174,1,1,Hungary,Wales,world.1958
+988,174,3,0,Brazil,Austria,world.1958
+989,174,2,2,Soviet Union (-1991),England,world.1958
+970,175,3,1,Argentina,Northern Ireland,world.1958
+971,175,2,2,West Germany (-1989),Czechoslovakia (-1992),world.1958
+977,175,3,2,Yugoslavia (-2003),France,world.1958
+978,175,3,2,Paraguay,Scotland,world.1958
+983,175,1,1,Mexico,Wales,world.1958
+990,175,0,0,Brazil,England,world.1958
+991,175,2,0,Soviet Union (-1991),Austria,world.1958
+972,176,2,2,West Germany (-1989),Northern Ireland,world.1958
+973,176,6,1,Czechoslovakia (-1992),Argentina,world.1958
+979,176,2,1,France,Scotland,world.1958
+980,176,3,3,Paraguay,Yugoslavia (-2003),world.1958
+985,176,0,0,Sweden,Wales,world.1958
+986,176,4,0,Hungary,Mexico,world.1958
+992,176,2,2,England,Austria,world.1958
+993,176,2,0,Brazil,Soviet Union (-1991),world.1958
+974,177,1,1,Northern Ireland,Czechoslovakia (-1992),world.1958
+984,178,2,1,Sweden,Hungary,world.1958
+987,179,2,1,Wales,Hungary,world.1958
+994,180,1,0,Soviet Union (-1991),England,world.1958
+995,181,4,0,France,Northern Ireland,world.1958
+996,181,2,0,Sweden,Soviet Union (-1991),world.1958
+997,181,1,0,Brazil,Wales,world.1958
+998,181,1,0,West Germany (-1989),Yugoslavia (-2003),world.1958
+999,182,2,5,France,Brazil,world.1958
+1000,182,1,3,West Germany (-1989),Sweden,world.1958
+1001,183,3,6,West Germany (-1989),France,world.1958
+1002,184,2,5,Sweden,Brazil,world.1958
+1003,185,2,1,Uruguay,Colombia,world.1962
+1009,185,3,1,Chile,Switzerland,world.1962
+1015,185,2,0,Brazil,Mexico,world.1962
+1021,185,1,0,Argentina,Bulgaria,world.1962
+1004,186,2,0,Soviet Union (-1991),Yugoslavia (-2003),world.1962
+1010,186,0,0,West Germany (-1989),Italy,world.1962
+1016,186,1,0,Czechoslovakia (-1992),Spain,world.1962
+1022,186,2,1,Hungary,England,world.1962
+1005,187,3,1,Yugoslavia (-2003),Uruguay,world.1962
+1011,187,2,0,Chile,Italy,world.1962
+1017,187,0,0,Brazil,Czechoslovakia (-1992),world.1962
+1023,187,3,1,England,Argentina,world.1962
+1006,188,4,4,Soviet Union (-1991),Colombia,world.1962
+1012,188,2,1,West Germany (-1989),Switzerland,world.1962
+1018,188,1,0,Spain,Mexico,world.1962
+1024,188,6,1,Hungary,Bulgaria,world.1962
+1007,189,2,1,Soviet Union (-1991),Uruguay,world.1962
+1013,189,2,0,West Germany (-1989),Chile,world.1962
+1019,189,2,1,Brazil,Spain,world.1962
+1025,189,0,0,Hungary,Argentina,world.1962
+1008,190,5,0,Yugoslavia (-2003),Colombia,world.1962
+1014,190,3,0,Italy,Switzerland,world.1962
+1020,190,3,1,Mexico,Czechoslovakia (-1992),world.1962
+1026,190,0,0,England,Bulgaria,world.1962
+1027,191,2,1,Chile,Soviet Union (-1991),world.1962
+1028,191,1,0,Yugoslavia (-2003),West Germany (-1989),world.1962
+1029,191,3,1,Brazil,England,world.1962
+1030,191,1,0,Czechoslovakia (-1992),Hungary,world.1962
+1031,192,4,2,Brazil,Chile,world.1962
+1032,192,3,1,Czechoslovakia (-1992),Yugoslavia (-2003),world.1962
+1033,193,1,0,Chile,Yugoslavia (-2003),world.1962
+1034,194,3,1,Brazil,Czechoslovakia (-1992),world.1962
+1035,195,0,0,England,Uruguay,world.1966
+1036,196,1,1,France,Mexico,world.1966
+1042,196,2,1,Argentina,Spain,world.1966
+1048,196,3,1,Portugal,Hungary,world.1966
+1054,196,2,0,Italy,Chile,world.1966
+1037,197,2,1,Uruguay,France,world.1966
+1043,197,2,1,Spain,Switzerland,world.1966
+1049,197,3,1,Hungary,Brazil,world.1966
+1055,197,1,1,Chile,North Korea,world.1966
+1038,198,2,0,England,Mexico,world.1966
+1044,198,0,0,Argentina,West Germany (-1989),world.1966
+1050,198,3,0,Portugal,Bulgaria,world.1966
+1056,198,1,0,Soviet Union (-1991),Italy,world.1966
+1039,199,0,0,Mexico,Uruguay,world.1966
+1045,199,2,0,Argentina,Switzerland,world.1966
+1051,199,3,1,Portugal,Brazil,world.1966
+1057,199,1,0,North Korea,Italy,world.1966
+1040,200,2,0,England,France,world.1966
+1046,200,2,1,West Germany (-1989),Spain,world.1966
+1052,200,3,1,Hungary,Bulgaria,world.1966
+1058,200,2,1,Soviet Union (-1991),Chile,world.1966
+1041,201,5,0,West Germany (-1989),Switzerland,world.1966
+1047,201,2,0,Brazil,Bulgaria,world.1966
+1053,201,3,0,Soviet Union (-1991),North Korea,world.1966
+1059,202,1,0,England,Argentina,world.1966
+1060,202,4,0,West Germany (-1989),Uruguay,world.1966
+1061,202,2,1,Soviet Union (-1991),Hungary,world.1966
+1062,202,5,3,Portugal,North Korea,world.1966
+1063,203,2,1,West Germany (-1989),Soviet Union (-1991),world.1966
+1064,203,2,1,England,Portugal,world.1966
+1065,204,2,1,Portugal,Soviet Union (-1991),world.1966
+1066,205,2,2,England,West Germany (-1989),world.1966
+1067,206,0,0,Mexico,Soviet Union (-1991),world.1970
+1068,207,3,0,Belgium,El Salvador,world.1970
+1074,207,1,0,Italy,Sweden,world.1970
+1080,207,1,4,Czechoslovakia (-1992),Brazil,world.1970
+1086,207,1,2,Morocco,West Germany (-1989),world.1970
+1069,208,4,1,Soviet Union (-1991),Belgium,world.1970
+1075,208,0,0,Uruguay,Italy,world.1970
+1081,208,2,1,Romania,Czechoslovakia (-1992),world.1970
+1087,208,3,0,Peru,Morocco,world.1970
+1070,209,4,0,Mexico,El Salvador,world.1970
+1076,209,1,1,Sweden,Israel,world.1970
+1082,209,0,1,England,Brazil,world.1970
+1088,209,2,5,Bulgaria,West Germany (-1989),world.1970
+1071,210,2,0,Soviet Union (-1991),El Salvador,world.1970
+1077,210,0,1,Uruguay,Sweden,world.1970
+1083,210,2,3,Romania,Brazil,world.1970
+1089,210,1,3,Peru,West Germany (-1989),world.1970
+1072,211,1,0,Mexico,Belgium,world.1970
+1078,211,0,0,Israel,Italy,world.1970
+1084,211,1,0,England,Czechoslovakia (-1992),world.1970
+1090,211,1,1,Bulgaria,Morocco,world.1970
+1073,212,2,0,Uruguay,Israel,world.1970
+1079,212,0,1,Romania,England,world.1970
+1085,212,3,2,Peru,Bulgaria,world.1970
+1091,213,0,0,Soviet Union (-1991),Uruguay,world.1970
+1092,213,4,1,Italy,Mexico,world.1970
+1093,213,4,2,Brazil,Peru,world.1970
+1094,213,2,2,West Germany (-1989),England,world.1970
+1095,214,1,3,Uruguay,Brazil,world.1970
+1096,214,1,1,Italy,West Germany (-1989),world.1970
+1097,215,0,1,Uruguay,West Germany (-1989),world.1970
+1098,216,4,1,Brazil,Italy,world.1970
+1099,217,1,0,West Germany (-1989),Chile,world.1974
+1100,217,2,0,East Germany (-1989),Australia,world.1974
+1106,217,0,2,Zaire (-????),Scotland,world.1974
+1101,218,1,1,Chile,East Germany (-1989),world.1974
+1102,218,0,3,Australia,West Germany (-1989),world.1974
+1107,218,9,0,Yugoslavia (-2003),Zaire (-????),world.1974
+1108,218,0,0,Scotland,Brazil,world.1974
+1103,219,0,0,Australia,Chile,world.1974
+1104,219,1,0,East Germany (-1989),West Germany (-1989),world.1974
+1109,219,1,1,Scotland,Yugoslavia (-2003),world.1974
+1110,219,0,3,Zaire (-????),Brazil,world.1974
+1105,220,0,0,Brazil,Yugoslavia (-2003),world.1974
+1111,221,0,2,Uruguay,Netherlands,world.1974
+1112,221,0,0,Sweden,Bulgaria,world.1974
+1117,221,3,1,Italy,Haiti,world.1974
+1118,221,3,2,Poland,Argentina,world.1974
+1113,222,0,0,Netherlands,Sweden,world.1974
+1114,222,1,1,Uruguay,Bulgaria,world.1974
+1119,222,0,7,Haiti,Poland,world.1974
+1120,222,1,1,Argentina,Italy,world.1974
+1115,223,4,1,Netherlands,Bulgaria,world.1974
+1116,223,3,0,Sweden,Uruguay,world.1974
+1121,223,4,1,Argentina,Haiti,world.1974
+1122,223,2,1,Poland,Italy,world.1974
+1123,224,1,0,Brazil,East Germany (-1989),world.1974
+1124,224,4,0,Netherlands,Argentina,world.1974
+1129,224,0,2,Yugoslavia (-2003),West Germany (-1989),world.1974
+1130,224,0,1,Sweden,Poland,world.1974
+1125,225,0,2,East Germany (-1989),Netherlands,world.1974
+1126,225,1,2,Argentina,Brazil,world.1974
+1131,225,4,2,West Germany (-1989),Sweden,world.1974
+1132,225,2,1,Poland,Yugoslavia (-2003),world.1974
+1127,226,1,1,Argentina,East Germany (-1989),world.1974
+1128,226,2,0,Netherlands,Brazil,world.1974
+1133,226,0,1,Poland,West Germany (-1989),world.1974
+1134,226,2,1,Sweden,Yugoslavia (-2003),world.1974
+1135,227,0,1,Brazil,Poland,world.1974
+1136,228,1,2,Netherlands,West Germany (-1989),world.1974
+1137,229,2,1,Argentina,Hungary,world.1978
+1138,229,2,1,Italy,France,world.1978
+1144,229,3,1,Tunisia,Mexico,world.1978
+1139,230,2,1,Argentina,France,world.1978
+1140,230,3,1,Italy,Hungary,world.1978
+1145,230,1,0,Poland,Tunisia,world.1978
+1146,230,6,0,West Germany (-1989),Mexico,world.1978
+1141,231,0,1,Argentina,Italy,world.1978
+1142,231,3,1,France,Hungary,world.1978
+1147,231,3,1,Poland,Mexico,world.1978
+1148,231,0,0,West Germany (-1989),Tunisia,world.1978
+1143,232,0,0,West Germany (-1989),Poland,world.1978
+1149,233,2,1,Austria,Spain,world.1978
+1150,233,1,1,Brazil,Sweden,world.1978
+1155,233,3,1,Peru,Scotland,world.1978
+1156,233,3,0,Netherlands,Iran,world.1978
+1151,234,1,0,Austria,Sweden,world.1978
+1152,234,0,0,Brazil,Spain,world.1978
+1157,234,1,1,Scotland,Iran,world.1978
+1158,234,0,0,Netherlands,Peru,world.1978
+1153,235,1,0,Spain,Sweden,world.1978
+1154,235,1,0,Brazil,Austria,world.1978
+1159,235,4,1,Peru,Iran,world.1978
+1160,235,3,2,Scotland,Netherlands,world.1978
+1161,236,0,0,Italy,West Germany (-1989),world.1978
+1162,236,1,5,Austria,Netherlands,world.1978
+1167,236,2,0,Argentina,Poland,world.1978
+1168,236,0,3,Peru,Brazil,world.1978
+1163,237,1,0,Italy,Austria,world.1978
+1164,237,2,2,Netherlands,West Germany (-1989),world.1978
+1169,237,0,0,Argentina,Brazil,world.1978
+1170,237,0,1,Peru,Poland,world.1978
+1165,238,1,2,Italy,Netherlands,world.1978
+1166,238,3,2,Austria,West Germany (-1989),world.1978
+1171,238,6,0,Argentina,Peru,world.1978
+1172,238,1,3,Poland,Brazil,world.1978
+1173,239,2,1,Brazil,Italy,world.1978
+1174,240,1,1,Netherlands,Argentina,world.1978
+1175,241,0,0,Italy,Poland,world.1982
+1205,241,2,1,Brazil,Soviet Union (-1991),world.1982
+1176,242,0,0,Peru,Cameroon,world.1982
+1188,242,10,1,Hungary,El Salvador,world.1982
+1206,242,5,2,Scotland,New Zealand,world.1982
+1177,243,1,1,Italy,Peru,world.1982
+1189,243,4,1,Argentina,Hungary,world.1982
+1207,243,4,1,Brazil,Scotland,world.1982
+1178,244,0,0,Poland,Cameroon,world.1982
+1190,244,1,0,Belgium,El Salvador,world.1982
+1208,244,3,0,Soviet Union (-1991),New Zealand,world.1982
+1179,245,5,1,Poland,Peru,world.1982
+1191,245,1,1,Belgium,Hungary,world.1982
+1209,245,2,2,Soviet Union (-1991),Scotland,world.1982
+1180,246,1,1,Italy,Cameroon,world.1982
+1192,246,2,0,Argentina,El Salvador,world.1982
+1210,246,4,0,Brazil,New Zealand,world.1982
+1181,247,1,2,West Germany (-1989),Algeria,world.1982
+1193,247,3,1,England,France,world.1982
+1199,247,1,1,Spain,Honduras,world.1982
+1182,248,0,1,Chile,Austria,world.1982
+1194,248,1,1,Czechoslovakia (-1992),Kuwait,world.1982
+1200,248,0,0,Yugoslavia (-2003),Northern Ireland,world.1982
+1183,249,4,1,West Germany (-1989),Chile,world.1982
+1195,249,2,0,England,Czechoslovakia (-1992),world.1982
+1201,249,2,1,Spain,Yugoslavia (-2003),world.1982
+1184,250,0,2,Algeria,Austria,world.1982
+1196,250,4,1,France,Kuwait,world.1982
+1202,250,1,1,Honduras,Northern Ireland,world.1982
+1185,251,3,2,Algeria,Chile,world.1982
+1197,251,1,1,France,Czechoslovakia (-1992),world.1982
+1203,251,0,1,Honduras,Yugoslavia (-2003),world.1982
+1186,252,1,0,West Germany (-1989),Austria,world.1982
+1198,252,1,0,England,Kuwait,world.1982
+1204,252,0,1,Spain,Northern Ireland,world.1982
+1187,253,0,1,Argentina,Belgium,world.1982
+1211,254,3,0,Poland,Belgium,world.1982
+1220,254,0,1,Austria,France,world.1982
+1212,255,0,1,Belgium,Soviet Union (-1991),world.1982
+1221,255,2,2,Austria,Northern Ireland,world.1982
+1213,256,0,0,Soviet Union (-1991),Poland,world.1982
+1222,256,1,4,Northern Ireland,France,world.1982
+1214,257,0,0,West Germany (-1989),England,world.1982
+1217,257,2,1,Italy,Argentina,world.1982
+1215,258,2,1,West Germany (-1989),Spain,world.1982
+1218,258,1,3,Argentina,Brazil,world.1982
+1216,259,0,0,Spain,England,world.1982
+1219,259,3,2,Italy,Brazil,world.1982
+1223,260,0,2,Poland,Italy,world.1982
+1224,260,1,1,West Germany (-1989),France,world.1982
+1225,261,3,2,Poland,France,world.1982
+1226,262,3,1,Italy,West Germany (-1989),world.1982
+1227,263,1,1,Bulgaria,Italy,world.1986
+1228,264,3,1,Argentina,South Korea,world.1986
+1240,264,6,0,Soviet Union (-1991),Hungary,world.1986
+1257,264,0,0,Morocco,Poland,world.1986
+1229,265,1,1,Italy,Argentina,world.1986
+1230,265,1,1,South Korea,Bulgaria,world.1986
+1241,265,1,1,France,Soviet Union (-1991),world.1986
+1231,266,2,3,South Korea,Italy,world.1986
+1232,266,2,0,Argentina,Bulgaria,world.1986
+1233,267,1,2,Belgium,Mexico,world.1986
+1246,267,1,1,Algeria,Northern Ireland,world.1986
+1258,267,1,0,Portugal,England,world.1986
+1234,268,1,0,Paraguay,Iraq,world.1986
+1251,268,1,1,Uruguay,West Germany (-1989),world.1986
+1252,268,0,1,Scotland,Denmark,world.1986
+1235,269,1,1,Mexico,Paraguay,world.1986
+1248,269,1,2,Northern Ireland,Spain,world.1986
+1260,269,1,0,Poland,Portugal,world.1986
+1236,270,1,2,Iraq,Belgium,world.1986
+1253,270,2,1,West Germany (-1989),Scotland,world.1986
+1254,270,6,1,Denmark,Uruguay,world.1986
+1237,271,0,1,Iraq,Mexico,world.1986
+1238,271,2,2,Paraguay,Belgium,world.1986
+1261,271,1,3,Portugal,Morocco,world.1986
+1262,271,3,0,England,Poland,world.1986
+1239,272,0,1,Canada,France,world.1986
+1245,272,0,1,Spain,Brazil,world.1986
+1242,273,2,0,Hungary,Canada,world.1986
+1247,273,1,0,Brazil,Algeria,world.1986
+1259,273,0,0,England,Morocco,world.1986
+1243,274,0,3,Hungary,France,world.1986
+1244,274,2,0,Soviet Union (-1991),Canada,world.1986
+1249,275,0,3,Northern Ireland,Brazil,world.1986
+1250,275,0,3,Algeria,Spain,world.1986
+1255,276,2,0,Denmark,West Germany (-1989),world.1986
+1256,276,0,0,Scotland,Uruguay,world.1986
+1263,277,2,0,Mexico,Bulgaria,world.1986
+1264,277,2,2,Soviet Union (-1991),Belgium,world.1986
+1265,277,1,0,Argentina,Uruguay,world.1986
+1266,277,4,0,Brazil,Poland,world.1986
+1267,277,0,2,Italy,France,world.1986
+1268,277,0,1,Morocco,West Germany (-1989),world.1986
+1269,277,3,0,England,Paraguay,world.1986
+1270,277,1,5,Denmark,Spain,world.1986
+1271,278,1,1,Brazil,France,world.1986
+1272,278,0,0,West Germany (-1989),Mexico,world.1986
+1273,278,1,1,Spain,Belgium,world.1986
+1274,278,2,1,Argentina,England,world.1986
+1275,279,2,0,Argentina,Belgium,world.1986
+1276,279,0,2,France,West Germany (-1989),world.1986
+1277,280,2,2,France,Belgium,world.1986
+1278,281,3,2,Argentina,West Germany (-1989),world.1986
+1279,282,1,0,Italy,Austria,world.1990
+1286,282,0,2,Soviet Union (-1991),Romania,world.1990
+1297,282,0,2,United Arab Emirates,Colombia,world.1990
+1280,283,1,5,United States,Czechoslovakia (-1992),world.1990
+1291,283,2,1,Brazil,Sweden,world.1990
+1298,283,4,1,West Germany (-1989),Yugoslavia (-2003),world.1990
+1281,284,1,0,Italy,United States,world.1990
+1288,284,2,1,Cameroon,Romania,world.1990
+1299,284,1,0,Yugoslavia (-2003),Colombia,world.1990
+1282,285,0,1,Austria,Czechoslovakia (-1992),world.1990
+1300,285,5,1,West Germany (-1989),United Arab Emirates,world.1990
+1283,286,2,0,Italy,Czechoslovakia (-1992),world.1990
+1284,286,2,1,Austria,United States,world.1990
+1301,286,1,1,West Germany (-1989),Colombia,world.1990
+1302,286,4,1,Yugoslavia (-2003),United Arab Emirates,world.1990
+1285,287,0,1,Argentina,Cameroon,world.1990
+1287,288,2,0,Argentina,Soviet Union (-1991),world.1990
+1304,288,0,0,Uruguay,Spain,world.1990
+1289,289,1,1,Argentina,Romania,world.1990
+1290,289,0,4,Cameroon,Soviet Union (-1991),world.1990
+1292,290,1,0,Costa Rica,Scotland,world.1990
+1309,290,1,1,England,Ireland,world.1990
+1293,291,1,0,Brazil,Costa Rica,world.1990
+1294,291,1,2,Sweden,Scotland,world.1990
+1311,291,0,0,England,Netherlands,world.1990
+1295,292,1,0,Brazil,Scotland,world.1990
+1296,292,1,2,Sweden,Costa Rica,world.1990
+1303,293,2,0,Belgium,South Korea,world.1990
+1310,293,1,1,Netherlands,Egypt,world.1990
+1305,294,3,1,Belgium,Uruguay,world.1990
+1306,294,1,3,South Korea,Spain,world.1990
+1312,294,0,0,Ireland,Egypt,world.1990
+1307,295,1,2,Belgium,Spain,world.1990
+1308,295,0,1,South Korea,Uruguay,world.1990
+1313,295,1,0,England,Egypt,world.1990
+1314,295,1,1,Ireland,Netherlands,world.1990
+1315,296,0,0,Cameroon,Colombia,world.1990
+1316,296,4,1,Czechoslovakia (-1992),Costa Rica,world.1990
+1317,296,0,1,Brazil,Argentina,world.1990
+1318,296,2,1,West Germany (-1989),Netherlands,world.1990
+1319,296,0,0,Ireland,Romania,world.1990
+1320,296,2,0,Italy,Uruguay,world.1990
+1321,296,1,1,Spain,Yugoslavia (-2003),world.1990
+1322,296,0,0,England,Belgium,world.1990
+1323,297,0,0,Yugoslavia (-2003),Argentina,world.1990
+1324,297,1,0,Italy,Ireland,world.1990
+1325,297,1,0,West Germany (-1989),Czechoslovakia (-1992),world.1990
+1326,297,2,2,England,Cameroon,world.1990
+1327,298,1,1,Italy,Argentina,world.1990
+1328,298,1,1,West Germany (-1989),England,world.1990
+1329,299,2,1,Italy,England,world.1990
+1330,300,1,0,West Germany (-1989),Argentina,world.1990
+1331,301,1,1,United States,Switzerland,world.1994
+1332,301,1,3,Colombia,Romania,world.1994
+1355,301,0,1,Italy,Ireland,world.1994
+1333,302,1,4,Romania,Switzerland,world.1994
+1334,302,2,1,United States,Colombia,world.1994
+1335,303,0,1,United States,Romania,world.1994
+1336,303,0,2,Switzerland,Colombia,world.1994
+1352,303,0,4,Greece,Bulgaria,world.1994
+1337,304,2,2,Cameroon,Sweden,world.1994
+1356,304,1,0,Norway,Mexico,world.1994
+1361,304,1,0,Belgium,Morocco,world.1994
+1338,305,2,0,Brazil,Russia,world.1994
+1362,305,2,1,Netherlands,Saudi Arabia,world.1994
+1339,306,3,0,Brazil,Cameroon,world.1994
+1340,306,3,1,Sweden,Russia,world.1994
+1358,306,2,1,Mexico,Ireland,world.1994
+1341,307,6,1,Russia,Cameroon,world.1994
+1342,307,1,1,Brazil,Sweden,world.1994
+1359,307,0,0,Ireland,Norway,world.1994
+1360,307,1,1,Italy,Mexico,world.1994
+1343,308,1,0,Germany,Bolivia,world.1994
+1344,308,2,2,Spain,South Korea,world.1994
+1345,309,1,1,Germany,Spain,world.1994
+1349,309,4,0,Argentina,Greece,world.1994
+1350,309,3,0,Nigeria,Bulgaria,world.1994
+1346,310,0,0,South Korea,Bolivia,world.1994
+1357,310,1,0,Italy,Norway,world.1994
+1347,311,1,3,Bolivia,Spain,world.1994
+1348,311,3,2,Germany,South Korea,world.1994
+1351,312,2,1,Argentina,Nigeria,world.1994
+1363,312,1,0,Belgium,Netherlands,world.1994
+1364,312,2,1,Saudi Arabia,Morocco,world.1994
+1353,313,0,2,Greece,Nigeria,world.1994
+1354,313,0,2,Argentina,Bulgaria,world.1994
+1365,314,1,2,Morocco,Netherlands,world.1994
+1366,314,0,1,Belgium,Saudi Arabia,world.1994
+1367,315,3,2,Germany,Belgium,world.1994
+1368,315,3,0,Spain,Switzerland,world.1994
+1369,315,1,3,Saudi Arabia,Sweden,world.1994
+1370,315,3,2,Romania,Argentina,world.1994
+1371,315,2,0,Netherlands,Ireland,world.1994
+1372,315,1,0,Brazil,United States,world.1994
+1373,315,1,1,Nigeria,Italy,world.1994
+1374,315,1,1,Mexico,Bulgaria,world.1994
+1375,316,2,1,Italy,Spain,world.1994
+1376,316,2,3,Netherlands,Brazil,world.1994
+1377,316,2,1,Bulgaria,Germany,world.1994
+1378,316,1,1,Romania,Sweden,world.1994
+1379,317,1,2,Bulgaria,Italy,world.1994
+1380,317,0,1,Sweden,Brazil,world.1994
+1381,318,4,0,Sweden,Bulgaria,world.1994
+1382,319,0,0,Brazil,Italy,world.1994
+1383,320,2,1,Brazil,Scotland,world.1998
+1384,320,2,2,Morocco,Norway,world.1998
+1385,321,1,1,Scotland,Norway,world.1998
+1386,321,3,0,Brazil,Morocco,world.1998
+1387,322,0,3,Scotland,Morocco,world.1998
+1388,322,1,2,Brazil,Norway,world.1998
+1393,322,2,1,Italy,Austria,world.1998
+1394,322,1,1,Chile,Cameroon,world.1998
+1389,323,1,1,Cameroon,Austria,world.1998
+1390,323,2,2,Italy,Chile,world.1998
+1391,324,1,1,Chile,Austria,world.1998
+1392,324,3,0,Italy,Cameroon,world.1998
+1395,325,0,1,Saudi Arabia,Denmark,world.1998
+1396,325,3,0,France,South Africa,world.1998
+1401,325,0,0,Paraguay,Bulgaria,world.1998
+1397,326,4,0,France,Saudi Arabia,world.1998
+1398,326,1,1,South Africa,Denmark,world.1998
+1399,327,2,1,France,Denmark,world.1998
+1400,327,2,2,South Africa,Saudi Arabia,world.1998
+1405,327,6,1,Spain,Bulgaria,world.1998
+1406,327,1,3,Nigeria,Paraguay,world.1998
+1402,328,2,3,Spain,Nigeria,world.1998
+1407,328,0,0,Netherlands,Belgium,world.1998
+1408,328,1,3,South Korea,Mexico,world.1998
+1403,329,1,0,Nigeria,Bulgaria,world.1998
+1404,329,0,0,Spain,Paraguay,world.1998
+1409,330,5,0,Netherlands,South Korea,world.1998
+1410,330,2,2,Belgium,Mexico,world.1998
+1427,330,0,1,Japan,Croatia,world.1998
+1411,331,1,1,Belgium,South Korea,world.1998
+1412,331,2,2,Netherlands,Mexico,world.1998
+1417,331,2,0,Germany,Iran,world.1998
+1418,331,0,1,United States,Yugoslavia (-2003),world.1998
+1413,332,1,0,Yugoslavia (-2003),Iran,world.1998
+1425,332,1,3,Jamaica,Croatia,world.1998
+1426,332,1,0,Argentina,Japan,world.1998
+1414,333,2,0,Germany,United States,world.1998
+1419,333,1,0,Romania,Colombia,world.1998
+1420,333,2,0,England,Tunisia,world.1998
+1415,334,2,2,Germany,Yugoslavia (-2003),world.1998
+1416,334,1,2,United States,Iran,world.1998
+1428,334,5,0,Argentina,Jamaica,world.1998
+1421,335,1,0,Colombia,Tunisia,world.1998
+1422,335,2,1,Romania,England,world.1998
+1423,336,1,1,Romania,Tunisia,world.1998
+1424,336,0,2,Colombia,England,world.1998
+1429,336,1,2,Japan,Jamaica,world.1998
+1430,336,1,0,Argentina,Croatia,world.1998
+1431,337,4,1,Brazil,Chile,world.1998
+1432,337,1,0,Italy,Norway,world.1998
+1433,337,1,4,Nigeria,Denmark,world.1998
+1434,337,0,0,France,Paraguay,world.1998
+1435,337,2,1,Germany,Mexico,world.1998
+1436,337,2,1,Netherlands,Yugoslavia (-2003),world.1998
+1437,337,2,2,Argentina,England,world.1998
+1438,337,0,1,Romania,Croatia,world.1998
+1439,338,0,0,Italy,France,world.1998
+1440,338,3,2,Brazil,Denmark,world.1998
+1441,338,0,3,Germany,Croatia,world.1998
+1442,338,2,1,Netherlands,Argentina,world.1998
+1443,339,1,1,Brazil,Netherlands,world.1998
+1444,339,2,1,France,Croatia,world.1998
+1445,340,1,2,Netherlands,Croatia,world.1998
+1446,341,0,3,Brazil,France,world.1998
+1447,342,0,1,France,Senegal,world.2002
+1448,343,1,2,Uruguay,Denmark,world.2002
+1471,343,1,1,Ireland,Cameroon,world.2002
+1472,343,8,0,Germany,Saudi Arabia,world.2002
+1449,344,0,0,France,Uruguay,world.2002
+1450,344,1,1,Denmark,Senegal,world.2002
+1474,344,1,0,Cameroon,Saudi Arabia,world.2002
+1451,345,2,0,Denmark,France,world.2002
+1452,345,3,3,Senegal,Uruguay,world.2002
+1475,345,0,2,Cameroon,Germany,world.2002
+1476,345,0,3,Saudi Arabia,Ireland,world.2002
+1453,346,2,2,Paraguay,South Africa,world.2002
+1454,346,3,1,Spain,Slovenia,world.2002
+1477,346,1,1,England,Sweden,world.2002
+1478,346,1,0,Argentina,Nigeria,world.2002
+1455,347,3,1,Spain,Paraguay,world.2002
+1479,347,2,1,Sweden,Nigeria,world.2002
+1480,347,0,1,Argentina,England,world.2002
+1456,348,1,0,South Africa,Slovenia,world.2002
+1461,348,4,0,Brazil,China,world.2002
+1485,348,1,2,Italy,Croatia,world.2002
+1457,349,2,3,South Africa,Spain,world.2002
+1458,349,1,3,Slovenia,Paraguay,world.2002
+1481,349,1,1,Sweden,Argentina,world.2002
+1482,349,0,0,Nigeria,England,world.2002
+1459,350,2,1,Brazil,Turkey,world.2002
+1483,350,0,1,Croatia,Mexico,world.2002
+1484,350,2,0,Italy,Ecuador,world.2002
+1460,351,0,2,China,Costa Rica,world.2002
+1465,351,2,0,South Korea,Poland,world.2002
+1489,351,2,2,Japan,Belgium,world.2002
+1462,352,1,1,Costa Rica,Turkey,world.2002
+1486,352,2,1,Mexico,Ecuador,world.2002
+1491,352,1,0,Japan,Russia,world.2002
+1463,353,2,5,Costa Rica,Brazil,world.2002
+1464,353,3,0,Turkey,China,world.2002
+1487,353,1,1,Mexico,Italy,world.2002
+1488,353,1,0,Ecuador,Croatia,world.2002
+1466,354,3,2,United States,Portugal,world.2002
+1473,354,1,1,Germany,Ireland,world.2002
+1490,354,2,0,Russia,Tunisia,world.2002
+1467,355,1,1,South Korea,United States,world.2002
+1468,355,4,0,Portugal,Poland,world.2002
+1492,355,1,1,Tunisia,Belgium,world.2002
+1469,356,0,1,Portugal,South Korea,world.2002
+1470,356,3,1,Poland,United States,world.2002
+1493,356,0,2,Tunisia,Japan,world.2002
+1494,356,3,2,Belgium,Russia,world.2002
+1495,357,1,0,Germany,Paraguay,world.2002
+1496,357,0,3,Denmark,England,world.2002
+1497,357,1,1,Sweden,Senegal,world.2002
+1498,357,1,1,Spain,Ireland,world.2002
+1499,357,0,2,Mexico,United States,world.2002
+1500,357,2,0,Brazil,Belgium,world.2002
+1501,357,0,1,Japan,Turkey,world.2002
+1502,357,1,1,South Korea,Italy,world.2002
+1503,358,1,2,England,Brazil,world.2002
+1504,358,1,0,Germany,United States,world.2002
+1505,358,0,0,Spain,South Korea,world.2002
+1506,358,0,0,Senegal,Turkey,world.2002
+1507,359,1,0,Germany,South Korea,world.2002
+1508,359,1,0,Brazil,Turkey,world.2002
+1509,360,2,3,South Korea,Turkey,world.2002
+1510,361,0,2,Germany,Brazil,world.2002
+1511,362,4,2,Germany,Costa Rica,world.2006
+1512,362,0,2,Poland,Ecuador,world.2006
+1517,363,1,0,England,Paraguay,world.2006
+1518,363,0,0,Trinidad and Tobago,Sweden,world.2006
+1523,363,2,1,Argentina,Côte d'Ivoire,world.2006
+1524,364,0,1,Serbia,Netherlands,world.2006
+1529,364,3,1,Mexico,Iran,world.2006
+1530,364,0,1,Angola,Portugal,world.2006
+1535,365,2,0,Italy,Ghana,world.2006
+1536,365,0,3,United States,Czech Republic,world.2006
+1542,365,3,1,Australia,Japan,world.2006
+1541,366,1,0,Brazil,Croatia,world.2006
+1547,366,0,0,France,Switzerland,world.2006
+1548,366,2,1,South Korea,Togo,world.2006
+1513,367,1,0,Germany,Poland,world.2006
+1553,367,4,0,Spain,Ukraine,world.2006
+1554,367,2,2,Tunisia,Saudi Arabia,world.2006
+1514,368,3,0,Ecuador,Costa Rica,world.2006
+1519,368,2,0,England,Trinidad and Tobago,world.2006
+1520,368,1,0,Sweden,Paraguay,world.2006
+1525,369,6,0,Argentina,Serbia,world.2006
+1526,369,2,1,Netherlands,Côte d'Ivoire,world.2006
+1531,369,0,0,Mexico,Angola,world.2006
+1532,370,2,0,Portugal,Iran,world.2006
+1537,370,1,1,Italy,United States,world.2006
+1538,370,0,2,Czech Republic,Ghana,world.2006
+1543,371,2,0,Brazil,Australia,world.2006
+1544,371,0,0,Japan,Croatia,world.2006
+1549,371,1,1,France,South Korea,world.2006
+1550,372,0,2,Togo,Switzerland,world.2006
+1555,372,3,1,Spain,Tunisia,world.2006
+1556,372,0,4,Saudi Arabia,Ukraine,world.2006
+1515,373,0,3,Ecuador,Germany,world.2006
+1516,373,1,2,Costa Rica,Poland,world.2006
+1521,373,2,2,Sweden,England,world.2006
+1522,373,2,0,Paraguay,Trinidad and Tobago,world.2006
+1527,374,0,0,Netherlands,Argentina,world.2006
+1528,374,3,2,Côte d'Ivoire,Serbia,world.2006
+1533,374,2,1,Portugal,Mexico,world.2006
+1534,374,1,1,Iran,Angola,world.2006
+1539,375,0,2,Czech Republic,Italy,world.2006
+1540,375,2,1,Ghana,United States,world.2006
+1545,375,1,4,Japan,Brazil,world.2006
+1546,375,2,2,Croatia,Australia,world.2006
+1551,376,0,2,Togo,France,world.2006
+1552,376,2,0,Switzerland,South Korea,world.2006
+1557,376,0,1,Saudi Arabia,Spain,world.2006
+1558,376,1,0,Ukraine,Tunisia,world.2006
+1559,377,2,0,Germany,Sweden,world.2006
+1560,377,1,1,Argentina,Mexico,world.2006
+1561,377,1,0,England,Ecuador,world.2006
+1562,377,1,0,Portugal,Netherlands,world.2006
+1563,377,1,0,Italy,Australia,world.2006
+1564,377,0,0,Switzerland,Ukraine,world.2006
+1565,377,3,0,Brazil,Ghana,world.2006
+1566,377,1,3,Spain,France,world.2006
+1567,378,1,1,Germany,Argentina,world.2006
+1568,378,3,0,Italy,Ukraine,world.2006
+1569,378,0,0,England,Portugal,world.2006
+1570,378,0,1,Brazil,France,world.2006
+1571,379,0,0,Germany,Italy,world.2006
+1572,379,0,1,Portugal,France,world.2006
+1573,380,3,1,Germany,Portugal,world.2006
+1574,381,1,1,Italy,France,world.2006
+1575,382,1,1,South Africa,Mexico,world.2010
+1576,382,0,0,Uruguay,France,world.2010
+1581,383,2,0,South Korea,Greece,world.2010
+1582,383,1,0,Argentina,Nigeria,world.2010
+1587,383,1,1,England,United States,world.2010
+1588,384,0,1,Algeria,Slovenia,world.2010
+1593,384,0,1,Serbia,Ghana,world.2010
+1594,384,4,0,Germany,Australia,world.2010
+1599,385,2,0,Netherlands,Denmark,world.2010
+1600,385,1,0,Japan,Cameroon,world.2010
+1605,385,1,1,Italy,Paraguay,world.2010
+1606,386,1,1,New Zealand,Slovakia,world.2010
+1611,386,0,0,Côte d'Ivoire,Portugal,world.2010
+1612,386,2,1,Brazil,North Korea,world.2010
+1577,387,0,3,South Africa,Uruguay,world.2010
+1617,387,0,1,Honduras,Chile,world.2010
+1618,387,0,1,Spain,Switzerland,world.2010
+1578,388,0,2,France,Mexico,world.2010
+1583,388,4,1,Argentina,South Korea,world.2010
+1584,388,2,1,Greece,Nigeria,world.2010
+1589,389,2,2,Slovenia,United States,world.2010
+1590,389,0,0,England,Algeria,world.2010
+1595,389,0,1,Germany,Serbia,world.2010
+1596,390,1,1,Ghana,Australia,world.2010
+1601,390,1,0,Netherlands,Japan,world.2010
+1602,390,1,2,Cameroon,Denmark,world.2010
+1607,391,0,2,Slovakia,Paraguay,world.2010
+1608,391,1,1,Italy,New Zealand,world.2010
+1613,391,3,1,Brazil,Côte d'Ivoire,world.2010
+1614,392,7,0,Portugal,North Korea,world.2010
+1619,392,1,0,Chile,Switzerland,world.2010
+1620,392,2,0,Spain,Honduras,world.2010
+1579,393,0,1,Mexico,Uruguay,world.2010
+1580,393,1,2,France,South Africa,world.2010
+1585,393,2,2,Nigeria,South Korea,world.2010
+1586,393,0,2,Greece,Argentina,world.2010
+1591,394,1,0,United States,Algeria,world.2010
+1592,394,0,1,Slovenia,England,world.2010
+1597,394,2,1,Australia,Serbia,world.2010
+1598,394,0,1,Ghana,Germany,world.2010
+1603,395,1,3,Denmark,Japan,world.2010
+1604,395,1,2,Cameroon,Netherlands,world.2010
+1609,395,3,2,Slovakia,Italy,world.2010
+1610,395,0,0,Paraguay,New Zealand,world.2010
+1615,396,0,0,Portugal,Brazil,world.2010
+1616,396,0,3,North Korea,Côte d'Ivoire,world.2010
+1621,396,1,2,Chile,Spain,world.2010
+1622,396,0,0,Switzerland,Honduras,world.2010
+1623,397,2,1,Uruguay,South Korea,world.2010
+1624,397,1,1,United States,Ghana,world.2010
+1625,397,4,1,Germany,England,world.2010
+1626,397,3,1,Argentina,Mexico,world.2010
+1627,397,2,1,Netherlands,Slovakia,world.2010
+1628,397,3,0,Brazil,Chile,world.2010
+1629,397,0,0,Paraguay,Japan,world.2010
+1630,397,1,0,Spain,Portugal,world.2010
+1631,398,2,1,Netherlands,Brazil,world.2010
+1632,398,1,1,Uruguay,Ghana,world.2010
+1633,398,0,4,Argentina,Germany,world.2010
+1634,398,0,1,Paraguay,Spain,world.2010
+1635,399,2,3,Uruguay,Netherlands,world.2010
+1636,399,0,1,Germany,Spain,world.2010
+1637,400,2,3,Uruguay,Germany,world.2010
+1638,401,0,0,Netherlands,Spain,world.2010
